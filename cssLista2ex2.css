@@ -1,0 +1,34 @@
+table {
+    margin: auto;
+    border: 2px;
+    border-collapse: collapse;
+    width: 600px;
+}
+thead{
+    background-color: #78b200;
+    color: white;
+
+}
+td, th{
+    padding: 8px;
+    font-size: 12px;
+    font-family: Arial;
+    text-align:justify;
+
+
+}
+.posicaoPar{
+    background-color:rgb(204, 216, 216);
+}
+.posicaoImpar{
+    background-color: white;
+}
+.nomesCidades{
+    color: #0D5188;
+}
+.posicao{
+    width: 5%;
+}
+.quantitativo{
+    width: 15%;
+}
